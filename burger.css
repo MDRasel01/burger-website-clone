@@ -1,0 +1,284 @@
+
+/*
+ font-family: 'Montserrat', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Paytone One', sans-serif;
+font-family: 'Raleway', sans-serif; 
+*/
+
+
+/* header code satrt from here */
+
+
+/* header code satrt from here */
+
+
+/* banner part start  here */
+
+.banner{
+    background-image: url(../image/image/banner.png);
+    height: 650px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.middle_text h1{
+    color: white;
+font-size: 85px;
+text-transform: uppercase;
+}
+
+.big_deal_box {
+    background-image: url(../image/image/1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: inline-block;
+    padding: 14px 27px;
+}
+
+.big_deal_box h4 {
+
+    font-size: 19px;
+    color: white;
+    font-family: arial black;
+    text-align: center;
+    padding: 10px 9px 3px 12px;
+    font-family: 'Paytone One', sans-serif;
+}
+
+.banner_text {
+    margin: 0px 170px;
+    text-align: center;
+    padding-top: 120px;
+}
+
+.middle_text h1{
+    margin: 0px;
+    font-family: 'Paytone One', sans-serif;
+}
+
+.last_text h1{
+    font-family: 'Pacifico', cursive;
+color: #F2C64D;
+font-size: 149px;
+margin-top: -66px;
+} 
+/* banner part start  here */
+
+
+/* burger menu code strt form here */
+
+.menu_up h2{
+    font-family: 'Pacifico', cursive;
+    color: #F2C64D;
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 18px;
+}
+
+.menu_up span{
+    font-size: 50px;
+    font-weight: 700;
+    color: #1A0D01;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+
+
+.menu_head{
+    padding: 63px 0px;
+}
+
+
+.box_1_text{
+  margin-left: 20px;
+}
+
+.box_1 h3{
+    font-size: 30px;
+    color: #1A0D01;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.box_1 p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
+.box_1 span{
+    display: block;
+    font-family: 700;
+    font-size: 24px;
+    color: rgb(240,84,44);
+}
+
+.both_box{
+    margin-bottom: 41px;
+}
+
+.more_items{
+    color: #F05489;
+border: none;
+background-color: transparent;
+padding: 25px 508px;
+text-align: center;
+border: 2px solid orange;
+border-radius: 94px;
+margin: 34px 0px;
+transition: .4s;
+}
+
+.more_items:hover{
+    background-color: orangered;
+color: white;
+transition: .4s;
+}
+/* burger menu code end form here */
+
+
+/* order now code start from here */
+
+.order_now_left img, .order_now_right img{
+    height: auto;
+    width: 100%;
+}
+
+.order_now_right, .order_now_left{
+    position: relative;
+
+}
+
+.order_now_left_text, .order_now_right_text{
+    position: absolute;
+    top: 84px;
+    left: 89px;
+    right: 114px;
+}
+
+.order_now_left_text span{
+    font-size: 30px;
+    font-weight: 700;
+    color: #F0542C;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.order_now_left_text h3{
+    font-size: 30px;
+    font-weight: 700;
+    color: #FFF;
+}
+
+.order_now_left_text p{
+    ont-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    color: white;
+
+}
+
+.order_now_left_text button{
+    background-color: #F2C64D;
+    border: none;
+    border-radius: 46px;
+    padding: 10px 29px;
+    font-size: 17px;
+    color: white;
+    font-weight: 800;
+}
+
+.order_now_right_text span{
+    font-size: 30px;
+    font-weight: 700;
+    color: #F0542C;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.order_now_right_text h3{
+    font-size: 30px;
+    font-weight: 700;
+    color: #FFF;
+}
+
+.order_now_right_text p{
+    ont-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    color: white;
+
+}
+
+.order_now_right_text button{
+    background-color: #F2C64D;
+    border: none;
+    border-radius: 46px;
+    padding: 10px 29px;
+    font-size: 17px;
+    color: white;
+    font-weight: 800;
+}
+/* order now code start from here */
+
+/* about us code start from here */
+
+
+.uphoto{
+width: 100%;
+height: auto;
+}
+
+.image{
+    position: relative;
+}
+
+.downphoto{
+    position: absolute;
+    width: 321px;
+    height: 445px;
+    left: 182px;
+    top: 203px;
+
+}
+
+.aboutus{
+    margin: 137px 0px;
+}
+
+.text_side{
+
+}
+
+.text_side h4{
+    font-family: 'Pacifico', cursive;
+    font-size: 42px;
+    font-weight: 400;
+    color: #f2c64d;
+    margin-bottom: 26px;
+}
+
+.text_side span{
+    font-size: 56px;
+    font-weight: 800;
+     font-family: 'Montserrat', sans-serif;
+
+}
+
+.text_side p{
+    font-size: 16px;
+margin-top: 24px;
+margin-right: 188px;
+}
+
+.text_side h1{
+    font-size: 58px;
+    font-weight: 800;
+     font-family: 'Montserrat', sans-serif;
+
+}
+/* about us code end from here */
